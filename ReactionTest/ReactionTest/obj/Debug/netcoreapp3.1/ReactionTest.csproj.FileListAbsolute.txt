@@ -20,3 +20,14 @@ C:\Dev\C#\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.Assembl
 C:\Dev\C#\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.AssemblyInfo.cs
 C:\Dev\C#\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.dll
 C:\Dev\C#\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.pdb
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\bin\Debug\netcoreapp3.1\ReactionTest.exe
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\bin\Debug\netcoreapp3.1\ReactionTest.deps.json
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\bin\Debug\netcoreapp3.1\ReactionTest.runtimeconfig.json
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\bin\Debug\netcoreapp3.1\ReactionTest.runtimeconfig.dev.json
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\bin\Debug\netcoreapp3.1\ReactionTest.dll
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\bin\Debug\netcoreapp3.1\ReactionTest.pdb
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.csprojAssemblyReference.cache
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.AssemblyInfoInputs.cache
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.AssemblyInfo.cs
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.dll
+C:\Dev\Github\ReactionTest\ReactionTest\ReactionTest\obj\Debug\netcoreapp3.1\ReactionTest.pdb

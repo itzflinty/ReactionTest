@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\C#\\ReactionTest\\ReactionTest\\ReactionTest.csproj": {}
+    "C:\\Dev\\Github\\ReactionTest\\ReactionTest\\ReactionTest\\ReactionTest.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\C#\\ReactionTest\\ReactionTest\\ReactionTest.csproj": {
+    "C:\\Dev\\Github\\ReactionTest\\ReactionTest\\ReactionTest\\ReactionTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\C#\\ReactionTest\\ReactionTest\\ReactionTest.csproj",
+        "projectUniqueName": "C:\\Dev\\Github\\ReactionTest\\ReactionTest\\ReactionTest\\ReactionTest.csproj",
         "projectName": "ReactionTest",
-        "projectPath": "C:\\Dev\\C#\\ReactionTest\\ReactionTest\\ReactionTest.csproj",
+        "projectPath": "C:\\Dev\\Github\\ReactionTest\\ReactionTest\\ReactionTest\\ReactionTest.csproj",
         "packagesPath": "C:\\Users\\nflint\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\C#\\ReactionTest\\ReactionTest\\obj\\",
+        "outputPath": "C:\\Dev\\Github\\ReactionTest\\ReactionTest\\ReactionTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

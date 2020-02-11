@@ -9,7 +9,14 @@ namespace ReactionTest
     {
         public static string FilePath()
         {
-            string filePath = @"C:\Dev\C#\ReactionTest\Scores.txt";
+            string filePath = @"C:\Dev\Github\ReactionTest\ReactionTest\Scores.txt";
+            //Console.WriteLine(File.Exists(filePath) ? "File Exists" : "File does not Exist");
+
+            if (!File.Exists(filePath))
+            {
+                File.Create(filePath).Close();
+                //Console.WriteLine(File.Exists(filePath) ? "File Exists" : "File does not Exist");
+            }
             return filePath;
         }
         public static List<string> ReadFile(string filePath)
